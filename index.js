@@ -3,5 +3,5 @@ function shout(string) {
 }
 
 function sayHiToGrandma() {
-  console.log(I love you, Grandma.)
+  console.log('I love you, Grandma.')
 }
